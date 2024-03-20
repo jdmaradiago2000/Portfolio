@@ -3961,7 +3961,7 @@ input[type="button"].btn--primary:focus {
  * ------------------------------------------------------------------- */
 .s-portfolio {
     background-color: var(--color-gray-1);
-    padding-top: calc(6 * var(--space));
+    padding-top: calc(2 * var(--space));
     padding-bottom: var(--vspace-5);
 }
 
